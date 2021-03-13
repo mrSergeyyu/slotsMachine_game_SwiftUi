@@ -1,3 +1,4 @@
 # slotsMachine_game_SwiftUi
 Slot machine game with swiftUi
-<img width="1066" alt="Снимок экрана 2021-03-13 в 18 34 02" src="https://user-images.githubusercontent.com/65863112/111036055-58e9a000-842e-11eb-8c87-3b0aafcbfd09.png">
+<img width="869" alt="Снимок экрана 2021-03-13 в 18 07 34" src="https://user-images.githubusercontent.com/65863112/111036322-bd592f00-842f-11eb-93e1-5fe5ae142871.png">
+
